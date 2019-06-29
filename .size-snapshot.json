@@ -1,0 +1,26 @@
+{
+  "esm\\babel-config.js": {
+    "bundled": 1595,
+    "minified": 1317,
+    "gzipped": 546,
+    "treeshaked": {
+      "rollup": {
+        "code": 0,
+        "import_statements": 0
+      },
+      "webpack": {
+        "code": 951
+      }
+    }
+  },
+  "umd\\babel-config.js": {
+    "bundled": 2100,
+    "minified": 1537,
+    "gzipped": 671
+  },
+  "umd\\babel-config.min.js": {
+    "bundled": 2100,
+    "minified": 1537,
+    "gzipped": 671
+  }
+}
